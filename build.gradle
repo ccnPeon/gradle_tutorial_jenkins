@@ -1,0 +1,8 @@
+import java.text.*
+
+Map test = new HashMap(["test": "you"])
+
+test.one = 'test'
+test.two = 2
+
+println(test)
